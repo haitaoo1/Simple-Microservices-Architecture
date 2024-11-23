@@ -41,4 +41,4 @@ This architecture consists of the following components:
 
 ## Diagram
 
-![Microservices Architecture]([https://github.com/haitaoo1/Simple-Microservices-Architecture/blob/3886c6e70ed60614803878a9da8b144b3043578c/source/MicroArchitecture.png](https://github.com/haitaoo1/Simple-Microservices-Architecture/blob/main/source/MicroArchitecture.png))
+![Microservices Architecture](https://github.com/haitaoo1/Simple-Microservices-Architecture/blob/main/source/MicroArchitecture.png)
